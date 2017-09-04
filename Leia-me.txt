@@ -1,0 +1,14 @@
+Cleber, segue abaixo algumas orientações relacionadas a funcionalidade:
+
+Para instalar o Script de banco de dados, acesse o http://localhost/phpmyadmin, entre com usuário e senha,
+crie um banco de dados com o nome desejado e importe o arquivo clientes.sql que está no
+pasta do script.
+
+No browser, abra o arquivo index.html e informe os dados para a conexão,
+o nome do banco de dados. É necessário permissão de escrita na pasta do script.
+O Script será instalado e estará pronto para uso.
+
+Utilizar php 5.6.25.
+
+Como não foi usado nenhum framework, não me preocupei com a disposição dos diretorios, as imagens de icones são de um outro projeto antigo que desenvolvi
+espero que não se importe, pois eram as que eu tinha salva em minhas bibliotecas.
